@@ -1,2 +1,38 @@
-package PACKAGE_NAME;public class CellPhone {
+public class CellPhone {
+
+    String model;
+    String color;
+
+//    생성자가 하나도 없을시 자동적으로 생성
+
+
+    void powerOn()
+    {
+        System.out.println("전원을 켭니다.");
+    }
+
+    void powerOff()
+    {
+        System.out.println("전원을 끕니다.");
+    }
+
+    void bell()
+    {
+        System.out.println("벨이 울립니다.");
+    }
+
+    void sendVoice(String message)
+    {
+        System.out.println("자기 : " + message);
+    }
+
+    void receiveVoice(String message)
+    {
+        System.out.println("상대방 : " + message);
+    }
+
+    void hengUp()
+    {
+        System.out.println("전화를 끊습니다.");
+    }
 }

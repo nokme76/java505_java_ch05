@@ -1,2 +1,14 @@
-package PACKAGE_NAME;public class Car {
+public class Car {
+    public int speed;
+
+    public void speedUp()
+    {
+        speed +=1;
+    }
+
+    public final void  stop()
+    {
+        System.out.println("차량 멈춤");
+        speed = 0;
+    }
 }
