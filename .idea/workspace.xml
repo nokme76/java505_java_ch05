@@ -5,35 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32a549dd-5c31-40c3-9fef-9662fef6e5fc" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CellPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ColorPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DmbCellPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiDiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NamedCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SportCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SupersonicAirplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SupersonicAirplaneEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VeryVeryImportantPeople.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lastWordGame/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lastWordGame/WordGameApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/package2/D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lastWordGame/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lastWordGame/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lastWordGame/WordGameApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lastWordGame/WordGameApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +55,8 @@
       <updated>1664238568463</updated>
       <workItem from="1664238569896" duration="18048000" />
       <workItem from="1664263650529" duration="780000" />
+      <workItem from="1664322609422" duration="7391000" />
+      <workItem from="1664347279435" duration="5935000" />
     </task>
     <servers />
   </component>

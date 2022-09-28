@@ -1,22 +1,23 @@
 package lastWordGame;
 
-import java.util.Scanner;
-
 public class Player {
-    static Scanner scan = new Scanner(System.in);
 
-    private String name;
-    private String word = scan.next();
+    public String name;
 
 
 
-    public void getWordFromUser(scan.next())
+    public void getWordFromUser()
     {
-
+        return word;
     }
 
-    public void checkSuccess()
+
+    public boolean checkSuccess(boolean check)
     {
+        if (check == false)
+        {
+            return break;
+        }
 
     }
 
