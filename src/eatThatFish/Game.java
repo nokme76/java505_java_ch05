@@ -1,2 +1,4 @@
-package eatThatFish;public class Game {
+package eatThatFish;
+
+public class Game {
 }
