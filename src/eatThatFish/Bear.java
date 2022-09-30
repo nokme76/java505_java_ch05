@@ -10,7 +10,7 @@ public class Bear extends GameObject{
 
     public Bear()
     {
-        super(1,1,1);
+        super(0,0,1);
     }
 
 
