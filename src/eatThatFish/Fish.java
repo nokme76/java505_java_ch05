@@ -4,7 +4,7 @@ public class Fish extends GameObject{
 
     public Fish()
     {
-        super(15,5,1);
+        super(6,10,1);
     }
 
     @Override
