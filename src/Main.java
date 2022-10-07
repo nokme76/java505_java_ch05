@@ -93,5 +93,7 @@ public class Main {
 
         B b = new B();
         b.method();
+
+
     }
 }
