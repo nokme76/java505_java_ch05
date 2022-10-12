@@ -1,3 +1,5 @@
+import java101w.Tire;
+
 public class Car2 {
     Tire frontLeftTire = new Tire("앞왼쪽", 6);
     Tire frontRightTire = new Tire("앞오른쪽", 2);

@@ -1,3 +1,6 @@
+import java101w.HankookTire;
+import java101w.KumhoTire;
+
 public class Car2Ex {
     public static void main(String[] args)
     {

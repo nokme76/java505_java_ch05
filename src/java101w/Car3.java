@@ -1,3 +1,5 @@
+import java101w.Tire;
+
 public class Car3 {
     Tire[] tires = {
             new Tire("앞왼쪽",6),
