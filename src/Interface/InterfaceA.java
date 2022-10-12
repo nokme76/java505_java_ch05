@@ -1,2 +1,5 @@
-package Interface;public interface InterfaceA {
+package Interface;
+
+public interface InterfaceA {
+    public void methodA();
 }

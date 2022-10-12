@@ -1,2 +1,5 @@
-package Interface;public interface TireI {
+package Interface;
+
+public interface TireI {
+    public void roll();
 }

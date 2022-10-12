@@ -12,7 +12,7 @@ public class Fish extends GameObject{
     public void move()
     {
         i++;
-        if (i>2)
+        if (i>3)
         {
             int randomMove = (int)(Math.random()*4)+1;
             if (randomMove == 1) //왼쪽 이동

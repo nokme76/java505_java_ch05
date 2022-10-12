@@ -5,28 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32a549dd-5c31-40c3-9fef-9662fef6e5fc" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java1012/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java1012/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java1012/DriverEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java1012/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java1012/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Bus2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Car4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Car4Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Car5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Driver2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Driver2Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/HankookTire2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/ImplC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/ImplEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/InterfaceC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/KumhoTire2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/RemoteControlEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Searchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/SmartTelevision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Taxi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/TireI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/Vehicle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java1012/Child2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java1012/Child2Ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java1012/Parent2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnimalEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/AnimalEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/Car2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car2Ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/Car2Ex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Car3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/Car3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ChildEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/ChildEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HankookTire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/HankookTire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KumhoTire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/KumhoTire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PhoneEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/PhoneEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/SmartPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java101w/Tire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java1012/DriverEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java1012/DriverEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eatThatFish/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eatThatFish/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eatThatFish/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eatThatFish/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -66,6 +74,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Interface" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -88,7 +101,7 @@
       <workItem from="1665109446137" duration="38000" />
       <workItem from="1665118855876" duration="8607000" />
       <workItem from="1665453649869" duration="97000" />
-      <workItem from="1665533045237" duration="3703000" />
+      <workItem from="1665533045237" duration="20599000" />
     </task>
     <servers />
   </component>

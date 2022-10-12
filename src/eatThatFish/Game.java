@@ -47,8 +47,8 @@ public class Game {
                     gameMap[i][j] = '-';
                 }
             }
-            gameMap[b.x][b.y] = b.getShape();
             gameMap[f.x][f.y] = f.getShape();
+            gameMap[b.x][b.y] = b.getShape();
 
 
             for (int i = 0; i<gameMap.length; i++)
