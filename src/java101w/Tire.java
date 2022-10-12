@@ -1,3 +1,5 @@
+package java101w;
+
 public class Tire {
     public int maxRotation; // 최대 회전수
     public int accumulatedRotation; // 누적 회전수
@@ -15,12 +17,12 @@ public class Tire {
 
         if (accumulatedRotation < maxRotation)
         {
-            System.out.println(location + "Tire 수명 : " + (maxRotation - accumulatedRotation) +"회");
+            System.out.println(location + "java101w.Tire 수명 : " + (maxRotation - accumulatedRotation) +"회");
             return true;
         }
         else
         {
-            System.out.println("*** " +location + "Tire 펑크 ***");
+            System.out.println("*** " +location + "java101w.Tire 펑크 ***");
             return false;
         }
     }

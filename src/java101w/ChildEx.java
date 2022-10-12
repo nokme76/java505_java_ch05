@@ -1,9 +1,14 @@
+package java101w;
+
+import java101w.Child;
+import java101w.Parent;
+
 public class ChildEx {
     public static void main(String [] args)
     {
-//        Child child = new Child();
+//        java101w.Child child = new java101w.Child();
 //
-//        Parent parent = new Parent();
+//        java101w.Parent parent = new java101w.Parent();
 //        parent.method1();
 //        parent.method2();
 //

@@ -1,3 +1,5 @@
+package java101w;
+
 import java101w.Tire;
 
 public class Car2 {

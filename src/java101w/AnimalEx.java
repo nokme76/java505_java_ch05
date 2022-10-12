@@ -1,4 +1,6 @@
-import package2.C;
+package java101w;
+
+import java101w.Animal;
 
 public class AnimalEx {
 
@@ -34,6 +36,6 @@ public class AnimalEx {
         animalSound(new Cat("고양이"));
 
 //        객체 생성이 불가능
-//        animal = new Animal();
+//        animal = new java101w.Animal();
     }
 }

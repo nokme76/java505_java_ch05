@@ -1,4 +1,8 @@
-public class Cat extends Animal{
+package java101w;
+
+import java101w.Animal;
+
+public class Cat extends Animal {
     public Cat(String kind)
     {
         super(kind);

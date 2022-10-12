@@ -1,4 +1,6 @@
-public class SmartPhone extends Phone{
+package java101w;
+
+public class SmartPhone extends Phone {
     public SmartPhone(String owner)
     {
         super(owner);

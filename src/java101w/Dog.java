@@ -1,4 +1,8 @@
-public class Dog extends Animal{
+package java101w;
+
+import java101w.Animal;
+
+public class Dog extends Animal {
     public Dog(String kind)
     {
 //        this.kind = "포유류";
